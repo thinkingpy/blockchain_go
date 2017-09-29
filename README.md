@@ -1,6 +1,6 @@
 # 用 GO 打造区块链
 
-一个用 GO 语言的区块链实现。参照文章内容如下：
+一个基于 GO 语言的区块链实现。参照文章如下：
 1. [基本原型 Basic Prototype](https://jeiwan.cc/posts/building-blockchain-in-go-part-1/)
 2. [工作量证明 Proof-of-Work](https://jeiwan.cc/posts/building-blockchain-in-go-part-2/)
 3. [持久化和 CLI Persistence and CLI](https://jeiwan.cc/posts/building-blockchain-in-go-part-3/)
